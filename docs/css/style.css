@@ -1,0 +1,18 @@
+body {
+    background-color: grey;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20vh;
+}
+
+.container span {
+    background-color: rgb(215, 240, 250);
+}
+
+.container a:visited, a:hover {
+    color: blue;
+}
